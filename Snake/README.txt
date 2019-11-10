@@ -1,1 +1,1 @@
-Classic game of snake. Use WASD to control movement.
+Classic game of snake. Use WASD.
